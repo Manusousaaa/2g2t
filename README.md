@@ -1,1 +1,2 @@
-# 2g2t
+estudo do segundo trimestre
+Emanuely-9
