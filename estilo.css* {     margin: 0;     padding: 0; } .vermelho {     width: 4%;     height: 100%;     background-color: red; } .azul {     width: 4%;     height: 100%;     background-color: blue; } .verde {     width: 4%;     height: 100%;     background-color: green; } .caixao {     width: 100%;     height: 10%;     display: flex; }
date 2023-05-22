@@ -1,24 +1,34 @@
-** {
-    margin: 0;
+* {
     padding: 0;
+    margin: 0;
 }
-.vermelho {
-    width: 4%;
-    height: 100%;
+.menu{
+ width: 100%;
+height: 60px;
+background-color: blue ;
+}
+.conteudo{
+width: 100%;
+background-color: aqua;
+}
+.rodape{
     background-color: red;
+    width: 100%;
+    text-align: center;
 }
-.azul {
-    width: 4%;
-    height: 100%;
-    background-color: blue;
-}
-.verde {
-    width: 4%;
-    height: 100%;
+.info-cinema{
+    width: 100%;
     background-color: green;
 }
-.caixao {
+.info-filme{
     width: 100%;
-    height: 10%;
-    display: flex;
+    background-color: yellow;
+}
+.info-filme-retro{
+    width: 100%;
+    background-color: gray;
+}
+.info-destaque{
+    width: 100%;
+    background-color: pink;
 }
